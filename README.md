@@ -36,3 +36,15 @@ git clone https://github.com/Usmile85/atm-reconciliation-portal.git
 cd atm-reconciliation-portal
 pip install -r requirements.txt
 streamlit run atm_reconciliation_project/atm_reconciliation_app.py
+
+ Built By
+Usman Idris Abdulrahman
+Founder, Man_Analytics
+Banking Pro | Data Scientist | FinTech Automation Expert
+
+🌍 Connect With Me
+🌐 LinkedIn
+
+💬 WhatsApp
+
+📧 usmile.44@gmail.com
